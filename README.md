@@ -12,17 +12,6 @@ npm run dev
 ```
 Abre la dirección que indique Vite (normalmente http://localhost:5173).
 
-## Fotografías
-Agrega imágenes JPG en `public/images/` con estos nombres:
-- `studiobook.jpg` – Laptop Andina StudioBook
-- `quietpro.jpg` – Audífonos QuietPro
-- `monitor.jpg` – Monitor UltraCurved
-- `teclado.jpg` – Teclado PureType
-- `dock.jpg` – Thunderbolt Dock
-- `mouse.jpg` – Mouse Precision Master
-
-Si faltan, aparecen espacios reservados con un icono de imagen de Lucide, no emojis. Puedes cambiar los nombres o rutas en `src/data/products.js`.
-
 ## Funciones reales
 - Inicio con productos y categorías.
 - Catálogo: búsqueda por nombre, descripción y categoría; filtros y orden por precio.
